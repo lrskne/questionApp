@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  QuestionDate: 2013-07-12
+  question: MyText
+  answer: MyText
+  answered: false
+
+two:
+  QuestionDate: 2013-07-12
+  question: MyText
+  answer: MyText
+  answered: false

@@ -1,0 +1,3 @@
+This is a very simple app for CodeFellows class - this was the assignment:
+
+For today, create a simple Rails app to keep track of your favorite questions. It can be just one resource (presumably "question"), and you can decide the attributes. Update your README to give a brief overview of the app.
